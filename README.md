@@ -1,6 +1,6 @@
 # Starting point for a basic website using Gulp and Sass.
 
-Get going with gulp with sass as a starting point. Autoprefixer and browserSync installed as well. Nothing is done with scripts or images.
+Get going with gulp & sass as a starting point. Autoprefixer and browserSync installed as well. Nothing is done with scripts or images.
 
 ## Usage
 
